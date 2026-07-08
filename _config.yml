@@ -6,6 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Naven Narayanan
 middle_name: 
 last_name: Venkatanarayanan
+orcid_id: 0000-0002-3855-5656 # paste your ORCID
+scholar_userid: https://scholar.google.com/citations?user=JkGZR1IAAAAJ&hl=en # paste your Google Scholar ID
+github_username: naven22 # optional
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > Theoretical ecologist. Coexistence, Community assembly and function, spatial ecology, and species interactions.# the ">" symbol means to ignore newlines until "footer_text:"
