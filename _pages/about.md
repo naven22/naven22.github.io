@@ -6,7 +6,7 @@ subtitle: Theoretical ecologist at NCBS Bangalore. Community assembly, coexisten
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: nice_pic_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>National Centre for Biological Sciences</p>
