@@ -25,10 +25,10 @@ latest_posts:
   limit: 3
 ---
 
-I am a Simons Career Development Fellow at the National Centre for Biological Sciences (NCBS) in Bangalore, hosted by Sandeep Krishna and working closely with Akshit Goyal and Shashi Thutupalli. I use a combination of theory, simulation, and experiment to understand how diversity assembles and persists in complex ecological communities.
+I am a Simons Career Development Fellow at the National Centre for Biological Sciences (NCBS) in Bangalore, hosted by Dr. Sandeep Krishna. I use a combination of analytical theory, simulations, and experiments to understand mechanisms driving the assembly and maintenance of diversity in complex ecological communities.
 
-My research asks how ecological structure, whether spatial, phylogenetic, or embedded in species interaction networks, shapes the spatio-temporal organisation of ecosystems. A recurring thread in my work is mutualism and how it influences species coexistence, range expansion, and the speed and shape of biological invasions. More recently I have turned to random matrix and disordered systems theory to ask how competitive communities generate and maintain diversity across ecological and strain-level scales.
+Specifically, my research asks how ecological structure, whether spatial, phylogenetic, or embedded in species interaction networks, shapes the spatio-temporal organisation of ecosystems. Answering these questions involves leveraging elegant ideas/tools from mathematics and physics, namely, random matrix and disordered systems theory to 
 
-I completed my PhD in Ecology, Evolution and Behavior at the University of Minnesota with Allison Shaw, and my integrated BS-MS in Life Sciences at IISER Pune. My methods span nonlinear dynamical systems (ODEs, PDEs, and integrodifference equations), travelling-wave and stability analysis, adaptive dynamics, and evolutionary game theory, supported by large-scale simulation.
+I completed my PhD in Ecology, Evolution and Behavior at the University of Minnesota with Allison Shaw and Will Harcombe, and my integrated BS-MS in Life Sciences at IISER Pune. My methods span nonlinear dynamical systems (ODEs, PDEs, and integrodifference equations), travelling-wave and stability analysis, adaptive dynamics, and evolutionary game theory, and often supported by large-scale numerical simulations.
 
-You can browse my [publications](/publications/) or read my [CV](/cv/). Feel free to reach out about coexistence theory, spatial ecology, or anything at the interface of mathematics and ecology.
+You can browse my [publications](/publications/) or read my [CV](/cv/). Feel free to reach out about coexistence theory, spatial ecology, or anything at the interface of mathematics and ecology!
